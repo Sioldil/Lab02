@@ -1,0 +1,10 @@
+E:\C#\Lab02_T7\Lab02_T7\bin\Debug\Lab02_T7.exe.config
+E:\C#\Lab02_T7\Lab02_T7\bin\Debug\Lab02_T7.exe
+E:\C#\Lab02_T7\Lab02_T7\bin\Debug\Lab02_T7.pdb
+E:\C#\Lab02_T7\Lab02_T7\obj\Debug\Lab02_T7.csproj.AssemblyReference.cache
+E:\C#\Lab02_T7\Lab02_T7\obj\Debug\Lab02_T7.Form1.resources
+E:\C#\Lab02_T7\Lab02_T7\obj\Debug\Lab02_T7.Properties.Resources.resources
+E:\C#\Lab02_T7\Lab02_T7\obj\Debug\Lab02_T7.csproj.GenerateResource.cache
+E:\C#\Lab02_T7\Lab02_T7\obj\Debug\Lab02_T7.csproj.CoreCompileInputs.cache
+E:\C#\Lab02_T7\Lab02_T7\obj\Debug\Lab02_T7.exe
+E:\C#\Lab02_T7\Lab02_T7\obj\Debug\Lab02_T7.pdb
